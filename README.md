@@ -1,7 +1,7 @@
 <div>
 <a href="https://beacons.ai/beckervitor"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beckervitor&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckervitor&layout=compact&langs_count=10&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckervitor&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
